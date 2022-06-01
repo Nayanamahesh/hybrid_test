@@ -24,7 +24,7 @@ public class Base_class implements Framework_constants
 	public void closeapp()
 	{
 		driver.close();
-		
+	//msg is conflictimg	
 		
 	}
 }
